@@ -1,10 +1,15 @@
 # Yorkshire Pudding Recipe
 
+## Ingredients
+
+
 * 2 heaped tbs flour
 * 2 large eggs
 * salt
 * pepper
 * beef dripping
+
+## Instructions
 
 * Sieve flour into a bowl
 * Make a dip in the flour 
