@@ -2,6 +2,13 @@
 
 Collection of my favourite recipes
 
+
+## Measurements
+
+* 1 cup in flour is 125g
+* 1 cup in in liquid is 250ml
+* 1 lb is ~ 0.5kg
+
 ## Equipment
 
 * A rotisserie
