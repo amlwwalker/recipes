@@ -1,7 +1,3 @@
-# My Recipes
-
-Collection of my favourite recipes
-
 
 ## Measurements
 
@@ -23,7 +19,7 @@ Collection of my favourite recipes
 * A sous vide
 * A wok
 * A wok ladle
-* A metal 'birds nest' wok strainer
+* A metal 'birds nest' wok strainer`
 
 ## Contents
 
