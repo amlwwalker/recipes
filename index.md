@@ -28,13 +28,16 @@
 * [Instant Pot Butter Chicken](butter-chicken-curry-instant-pot.md)
 * [Instant Pot Mushroom Risotto](mushroom-risotto-instant-pot.md)
 * [Seriously Good Burgers](seriously-good-burgers.md)
-* [Rotisserie Deboned Chicken and gravy]()
+* [Rotisserie Deboned Chicken and gravy](rotisserie-chicken-gravy.md)
+* [Singapore noodles](singapore-noodles.md)
+
+### Incomplete
+
 * [Rotisserie pork belly/shoulder]()
 * [Rotisserie lamb kebabs]()
 * [Instant pot Tom Yum Soup]()
 * [Ultimate Chicken wingles in cage]()
 * [Drunken noodles]()
-* [Singapore noodles]()
 * [Asian Salmon and bulgar wheat with crispy kale]()
 * [Ultimate roast potatoes]()
 * [Butterfly leg of lamb with incredible honey glaze]()
@@ -49,3 +52,4 @@
 * [Prawn saganaki]()
 * [Grilled courgettes]()
 * [Insanely delicious butternut squash]()
+* [Tripple cooked loaded fries]()
