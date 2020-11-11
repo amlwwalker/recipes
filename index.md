@@ -43,7 +43,7 @@ Things that you might not currently have, that I find useful when making these r
 * [Peanut ramen](instant-pot-peanut-ramen.md)
 * [Soft shell crab](soft-shell-crab-bao.md)
 * [Magic Pasta](magic-pasta.md)
-* [Crispy chilli shredded beef with iceberg shells and sticky rice]()
+* [Crispy chilli shredded beef with iceberg shells and sticky rice](crispy-shredded-beef.md)
 
 ### Not started
 
