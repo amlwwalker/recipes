@@ -38,16 +38,22 @@ Things that you might not currently have, that I find useful when making these r
 
 ### Incomplete
 
-* [Rotisserie pork belly/shoulder]()
-* [Rotisserie lamb kebabs]()
+* [Rotisserie pork belly/shoulder](rotisserie-pork-shoulder-belly.md)
+* [Rotisserie lamb kebabs](rotisserie-lamb-kebabs.md)
+* [Peanut ramen](instant-pot-peanut-ramen.md)
+* [Soft shell crab](soft-shell-crab-bao.md)
+* [Magic Pasta](magic-pasta,md)
+
+### Not started
+
 * [Instant pot Tom Yum Soup]()
 * [Ultimate Chicken wingles in cage]()
 * [Drunken noodles]()
 * [Ultimate roast potatoes]()
 * [Butterfly leg of lamb with incredible honey glaze]()
 * [Haddock/Cod tacos]()
-* [Peanut ramen]()
-* [Soft shell crab]()
+
+
 * [Crispy chilli shredded beef with iceberg shells and sticky rice]()
 * [Instant pot Borsht]()
 * [Instant pot hungarian goulash]()
