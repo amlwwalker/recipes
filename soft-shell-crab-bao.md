@@ -6,4 +6,4 @@
 
 ![soft-shell-bao.jpg](images/soft-shell-bao.jpg)
 
-![fried-soft-shell](fried-soft-shell.jpg)
+![fried-soft-shell](images/fried-soft-shell.jpg)

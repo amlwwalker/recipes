@@ -42,7 +42,7 @@ Things that you might not currently have, that I find useful when making these r
 * [Rotisserie lamb kebabs](rotisserie-lamb-kebabs.md)
 * [Peanut ramen](instant-pot-peanut-ramen.md)
 * [Soft shell crab](soft-shell-crab-bao.md)
-* [Magic Pasta](magic-pasta,md)
+* [Magic Pasta](magic-pasta.md)
 
 ### Not started
 
