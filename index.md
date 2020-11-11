@@ -34,6 +34,7 @@ Things that you might not currently have, that I find useful when making these r
 * [Singapore noodles](singapore-noodles.md)
 * [Saganaki Prawns with Orzo](prawn-saganaki.md)
 * [Yorkshire Pudding](yorkshire-pudding.md)
+* [Asian Salmon and bulgar wheat with crispy kale](asian-salmon-and-kale.md)
 
 ### Incomplete
 
@@ -42,7 +43,6 @@ Things that you might not currently have, that I find useful when making these r
 * [Instant pot Tom Yum Soup]()
 * [Ultimate Chicken wingles in cage]()
 * [Drunken noodles]()
-* [Asian Salmon and bulgar wheat with crispy kale]()
 * [Ultimate roast potatoes]()
 * [Butterfly leg of lamb with incredible honey glaze]()
 * [Haddock/Cod tacos]()
