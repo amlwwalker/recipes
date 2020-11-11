@@ -1,5 +1,7 @@
 # Chicken Caesar Sandwich
 
+![chicken-caesar-sandwich](images/chicken-caesar-sandwich.jpg)
+
 * Sour dough bread, sliced
 * Gem lettuce, broken up
 * Bacon, unsmoked, oven cooked before crisp (about 20 minutes at 180)
@@ -12,6 +14,9 @@
 * Salt (pinch)
 * Pepper (good grind)
 * Parmesan (grated)
+
+
+To be clear, whenever I rotisserie deboned chicken, I always make sure I have enough to make this sandwich the next day 
 
 Mash the anchovies, crush the garlic cloves, mix well with the back of a fork in a bowl. Throw in the Worcester sauce and the Dijon mustard. Add the salt and pepper. Mix very well. Add a good amount of mayonaise and keep adding while tasting. Its a taste preference. The sauce should be runny. Add the grated parmesan to the sauce and mix to a nice paste.
 

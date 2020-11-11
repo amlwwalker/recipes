@@ -1,5 +1,8 @@
 # Instant Pot Pork Carnitas
 
+![canita-taco](images/canita-taco.jpg)
+
+![bowl-pork](imags/bowl-pulled-pork.jpg)
 
 ## Salsa ingredients
 
@@ -61,6 +64,8 @@ Mix together to taste
 
 Mix together to taste
 
+![canitas-spread](images/canitas-spread.jpg)
+
 
 ## The Pork:
 
@@ -93,4 +98,8 @@ Throw all in the instant pot, followed by the pork, partially submerged and then
 Cook on high pressure for 45 minutes. Leave to slow release for 15 minutes. 
 Remove the pork chunks gently and shred them. Place on a baking tray and cover in the juices so just submerged. Put under the grill for 10-15 minutes to caremelise the juices. 
 
+![pulled-pork](images/pulled-pork.jpg)
+
 Serve with creme fresh/sour cream
+
+![canitas-plateup](images/canitas-plateup.jpg)

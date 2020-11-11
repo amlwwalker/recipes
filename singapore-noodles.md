@@ -1,5 +1,7 @@
 # Singapore Noodles
 
+![singapore-noodles](images/singapore-noodles.jpg)
+
 Wok cooking gets more complicated the more you try to cook. This is for one portion, however you can cook safely up to two portions at a time if your wok is big enough. I wouldn't risk more than two portions in a wok at once.
 
 Woks are about heat management and if the wok can't get hot enough due to too much ingredients, its ruined from the get go.
@@ -31,6 +33,8 @@ Firstly make the sauce by mixing the curry powder, chilli powder and turmeric in
 Now arrange on a large plate, starting at the top (12 oclock) in a clockwise order the egg, the thinly sliced onion, the red pepper sliced lengthways into strips, and then slice the red pepper strips in half. Next, now at about 5 oclock on the plate, the prawns, followed by the bean sprouts.
 
 Next on the plate after the sprouts place the vermicelli noodles and finally, the whites of the spring onions.
+
+![wok-clock](images/singapore-noodle-wok-clock.jpg)
 
 Get your wok very hot (smoking hot) and add some vegetable oil. I find managing a wok is best done with a large metal ladle. Using the back of the ladle in the oil move it in circles coating the bottom of the wok.
 

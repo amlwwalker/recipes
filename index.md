@@ -2,10 +2,12 @@
 ## Measurements
 
 * 1 cup in flour is 125g
-* 1 cup in in liquid is 250ml
+* 1 cup in liquid is 250ml
 * 1 lb is ~ 0.5kg
 
 ## Equipment
+
+Things that you might not currently have, that I find useful when making these recpies.
 
 * A rotisserie
 * A bbq
@@ -17,19 +19,21 @@
 * An instant pot
 * A vacuum sealer
 * A sous vide
+* Large heavy sauce pan
 * A wok
 * A wok ladle
 * A metal 'birds nest' wok strainer`
 
 ## Contents
 
-* [Yorkshire Pudding](yorkshire-pudding.md)
 * [Instant Pot Carnita (pork) tacos](carnita-tacos-instant-pot.md)
 * [Instant Pot Butter Chicken](butter-chicken-curry-instant-pot.md)
 * [Instant Pot Mushroom Risotto](mushroom-risotto-instant-pot.md)
 * [Seriously Good Burgers](seriously-good-burgers.md)
 * [Rotisserie Deboned Chicken and gravy](rotisserie-chicken-gravy.md)
 * [Singapore noodles](singapore-noodles.md)
+* [Saganaki Prawns with Orzo](prawn-saganaki.md)
+* * [Yorkshire Pudding](yorkshire-pudding.md)
 
 ### Incomplete
 

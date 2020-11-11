@@ -1,5 +1,7 @@
 # Mushroom Risotto Instant Pot
 
+![mushroom-risotto](images/mushroom-risotto.jpg)
+
 * 1 litre vegetable stock
 * 250 g of dried porcini mushrooms (or one pack)
 * Olive oil (good glug/2tbsn)
