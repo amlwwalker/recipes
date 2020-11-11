@@ -36,7 +36,7 @@ Things that you might not currently have, that I find useful when making these r
 * [Yorkshire Pudding](yorkshire-pudding.md)
 * [Asian Salmon and bulgar wheat with crispy kale](asian-salmon-and-kale.md)
 
-### Incomplete
+### Incomplete (photos, no instructions)
 
 * [Rotisserie pork belly/shoulder](rotisserie-pork-shoulder-belly.md)
 * [Rotisserie lamb kebabs](rotisserie-lamb-kebabs.md)

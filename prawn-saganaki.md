@@ -7,14 +7,14 @@ dish.
 
 ## Serves 5
 
-* 20 large prawns
+* 20-30 large prawns
 * 6-8 fresh tomatos
 * 2 red onions
 * Anchovies (chopped up)
 * 3-4 garlic cloves
 * Oregano
 * Dried chilli flakes (fresh aswell if you want spicier)
-* Greek Orzo
+* Greek Orzo (150-200g PP depending on what else you are eating)
 * Ouzo (Raki will do fine)
 * Dill, finely chopped
 * Parsley, finely chopped
