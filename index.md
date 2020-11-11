@@ -53,7 +53,6 @@ Things that you might not currently have, that I find useful when making these r
 * [Instant pot hungarian goulash]()
 * [Instant pot Spinach and goats cheese risotto]()
 * [Insane tuna pasta]()
-* [Prawn saganaki]()
 * [Grilled courgettes]()
 * [Insanely delicious butternut squash]()
 * [Tripple cooked loaded fries]()
