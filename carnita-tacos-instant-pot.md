@@ -64,7 +64,7 @@ Mix together to taste
 
 Mix together to taste
 
-![canitas-spread](images/carnitas-spread.jpg)
+![canitas-spread](images/carnita-spread.jpg)
 
 
 ## The Pork:
