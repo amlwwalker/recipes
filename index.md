@@ -43,6 +43,7 @@ Things that you might not currently have, that I find useful when making these r
 * [Peanut ramen](instant-pot-peanut-ramen.md)
 * [Soft shell crab](soft-shell-crab-bao.md)
 * [Magic Pasta](magic-pasta.md)
+* [Crispy chilli shredded beef with iceberg shells and sticky rice]()
 
 ### Not started
 
@@ -52,9 +53,6 @@ Things that you might not currently have, that I find useful when making these r
 * [Ultimate roast potatoes]()
 * [Butterfly leg of lamb with incredible honey glaze]()
 * [Haddock/Cod tacos]()
-
-
-* [Crispy chilli shredded beef with iceberg shells and sticky rice]()
 * [Instant pot Borsht]()
 * [Instant pot hungarian goulash]()
 * [Instant pot Spinach and goats cheese risotto]()
