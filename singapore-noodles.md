@@ -1,6 +1,6 @@
 # Singapore Noodles
 
-![singapore-noodles](images/singapore-noodles.jpg)
+![singapore-noodles](images/sinagpore-noodles.jpg)
 
 Wok cooking gets more complicated the more you try to cook. This is for one portion, however you can cook safely up to two portions at a time if your wok is big enough. I wouldn't risk more than two portions in a wok at once.
 

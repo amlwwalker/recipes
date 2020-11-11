@@ -1,8 +1,8 @@
 # Instant Pot Pork Carnitas
 
-![canita-taco](images/canita-taco.jpg)
+![canita-taco](images/carnita-taco.jpg)
 
-![bowl-pork](imags/bowl-pulled-pork.jpg)
+![bowl-pork](images/bowl-pulled-pork.jpg)
 
 ## Salsa ingredients
 
@@ -64,7 +64,7 @@ Mix together to taste
 
 Mix together to taste
 
-![canitas-spread](images/canitas-spread.jpg)
+![canitas-spread](images/carnitas-spread.jpg)
 
 
 ## The Pork:
@@ -102,4 +102,4 @@ Remove the pork chunks gently and shred them. Place on a baking tray and cover i
 
 Serve with creme fresh/sour cream
 
-![canitas-plateup](images/canitas-plateup.jpg)
+![canitas-plateup](images/carnitas-plateup.jpg)

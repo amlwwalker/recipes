@@ -33,7 +33,7 @@ Things that you might not currently have, that I find useful when making these r
 * [Rotisserie Deboned Chicken and gravy](rotisserie-chicken-gravy.md)
 * [Singapore noodles](singapore-noodles.md)
 * [Saganaki Prawns with Orzo](prawn-saganaki.md)
-* * [Yorkshire Pudding](yorkshire-pudding.md)
+* [Yorkshire Pudding](yorkshire-pudding.md)
 
 ### Incomplete
 
