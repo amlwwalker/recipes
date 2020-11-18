@@ -60,3 +60,7 @@ Things that you might not currently have, that I find useful when making these r
 * [Grilled courgettes]()
 * [Insanely delicious butternut squash]()
 * [Tripple cooked loaded fries]()
+
+### References
+
+* [Sous Vide Ideas](https://morningchores.com/sous-vide-recipes/)
