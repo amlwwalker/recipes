@@ -29,7 +29,7 @@ Preheat oven to between 160-180 depending on how well fan assisted your oven is.
 
 Take the salmon out of the fridge and leave for 15 minutes to reach room temperature.
 
-Place the salmon packages in the oven, they will take around 15 minutes to cook, however if you can use a temperature guage, you are looking for the center to be about 60 degrees C however, or the record i tend to do this by time and then take one out and have a look for that slightly pale, flakey texture. Take them out and let them rest for a few minutes. They will still cook slightly so be aware of that when taking them out.
+Place the salmon packages in the oven, they will take around 17 minutes to cook, however if you can use a temperature guage, you are looking for the center to be about 60 degrees C however, or the record i tend to do this by time and then take one out and have a look for that slightly pale, flakey texture. Take them out and let them rest for a few minutes. They will still cook slightly so be aware of that when taking them out.
 
 Place the kale on an oven tray, shake some salt, chilli flakes, olive oil and one lemon's juice, over, and put in the hot oven. It won't take long to go crispy, give it a check, and take it out before it starts to burn. 
 
@@ -38,6 +38,8 @@ In the meantime uncover your bulgar, which should have absorbed all the water. A
 Unwrap the salmon - keep the sauce!
 
 Serve by putting some bulgar in a bowl, place the salmon steak on top, spoon a bit of sauce over the steak letting it run into the bulgar slightly, and place some kale to the side. Add extra sauce if you would like it.
+
+I like to shake some sesame seeds through the kale before serving it
 
 As the picture shows, I like to flake the salmon up
 
