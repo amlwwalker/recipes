@@ -25,11 +25,11 @@ Take the salmon steaks, take a piece of tin foil for each salmon steak, large en
 
 Boil a kettle and make the bulgar wheat. With bulgar I tend to put the bulgar in a glass bowl, pour in the bowling water so the bulgar is covered by a good couple of centimetres, cover in a tea towel and leave for like 20 minutes.
 
-Preheat oven to between 160-180 depending on how well fan assisted your oven is. 
+Preheat oven to 180C. 
 
 Take the salmon out of the fridge and leave for 15 minutes to reach room temperature.
 
-Place the salmon packages in the oven, they will take around 17 minutes to cook, however if you can use a temperature guage, you are looking for the center to be about 60 degrees C however, or the record i tend to do this by time and then take one out and have a look for that slightly pale, flakey texture. Take them out and let them rest for a few minutes. They will still cook slightly so be aware of that when taking them out.
+Place the salmon packages in the oven, they will take around 17 minutes to cook depending on your oven, however if you can use a temperature guage, you are looking for the center to be about 60 degrees C however, or the record i tend to do this by time and then take one out and have a look for that slightly pale, flakey texture. Take them out and let them rest for a few minutes. They will still cook slightly so be aware of that when taking them out.
 
 Place the kale on an oven tray, shake some salt, chilli flakes, olive oil and one lemon's juice, over, and put in the hot oven. It won't take long to go crispy, give it a check, and take it out before it starts to burn. 
 
