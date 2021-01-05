@@ -20,6 +20,7 @@
 
 * Put the dried mushrooms in the stock and leave to sit for a while. 
 * Chop these mushrooms. 
+* Put the instant pot into sauté mode, medium temperature, give yourself 15/20 minutes of sauté time
 * Saute the onion in butter/oil
 * Add garlic. 
 * Add the fresh mushrooms, and season salt/pepper
@@ -27,5 +28,5 @@
 * Add the white wine and stir to allow to slightly boil off. 
 * Remove the dried mushrooms from the mushroom stock
 * Add stock and submerge the rice. 
-* Put lid on and high pressure cook for 6 minutes.
+* Put lid on and set the instant pot to high pressure cook for 6 minutes.
 * Rule of thumb, quick release, stir in parmesan and douse with olive oil - however, if you think that its too runny, you can put the lid back on and let it sit for a while to thicken up
