@@ -14,6 +14,7 @@
 * 1 tbsp White miso paste (very optional)
 * 500g Arborio rice
 * Glass dry white wine
+* 1-2 bags Spinach
 * Parmesan
 
 **Instructions**
@@ -29,4 +30,6 @@
 * Remove the dried mushrooms from the mushroom stock
 * Add stock and submerge the rice. 
 * Put lid on and set the instant pot to high pressure cook for 6 minutes.
+* Now gently sauté the spinach in butter with some salt. Once down strain out as much of the water/liquid as you can and slice up.
 * Rule of thumb, quick release, stir in parmesan and douse with olive oil - however, if you think that its too runny, you can put the lid back on and let it sit for a while to thicken up
+* When ready to eat, mix in the spinach and serve
