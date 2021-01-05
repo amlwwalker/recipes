@@ -16,6 +16,7 @@
 * Glass dry white wine
 * Parmesan
 
+**Instructions**
 
 * Put the dried mushrooms in the stock and leave to sit for a while. 
 * Chop these mushrooms. 
