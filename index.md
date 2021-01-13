@@ -29,6 +29,7 @@ Things that you might not currently have, that I find useful when making these r
 * [Instant Pot Carnita (pork) tacos](carnita-tacos-instant-pot.md)
 * [Instant Pot Butter Chicken](butter-chicken-curry-instant-pot.md)
 * [Instant Pot Mushroom Risotto](mushroom-risotto-instant-pot.md)
+* [Instant Tomato Soup and Cheese Toasties](instant-pot-tomato-soup-cheese-toasties.md)
 * [Seriously Good Burgers](seriously-good-burgers.md)
 * [Rotisserie Deboned Chicken and gravy](rotisserie-chicken-gravy.md)
 * [Singapore noodles](singapore-noodles.md)
