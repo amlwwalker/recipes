@@ -34,8 +34,9 @@ Things that you might not currently have, that I find useful when making these r
 * [Rotisserie Deboned Chicken and gravy](rotisserie-chicken-gravy.md)
 * [Singapore noodles](singapore-noodles.md)
 * [Saganaki Prawns with Orzo](prawn-saganaki.md)
-* [Yorkshire Pudding](yorkshire-pudding.md)
+* [Yorkshire Pudding - improvements required](yorkshire-pudding.md)
 * [Asian Salmon and bulgar wheat with crispy kale](asian-salmon-and-kale.md)
+* [Jerk Chicken (Sandwich)](jerk-chicken-sandwich.md)
 
 ### Incomplete (photos, no instructions)
 
