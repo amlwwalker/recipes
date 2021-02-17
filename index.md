@@ -36,6 +36,7 @@ Things that you might not currently have, that I find useful when making these r
 * [Saganaki Prawns with Orzo](prawn-saganaki.md)
 * [Yorkshire Pudding](yorkshire-pudding.md)
 * [Asian Salmon and bulgar wheat with crispy kale](asian-salmon-and-kale.md)
+* [Jerk Chicken (Sandwich)](jerk-chicken-sandwich.md)
 
 ### Incomplete (photos, no instructions)
 
