@@ -1,4 +1,9 @@
 
+# Recipes
+
+Contents and general useful information
+
+
 ## Measurements
 
 * 1 cup in flour is 125g
@@ -10,7 +15,7 @@
 Things that you might not currently have, that I find useful when making these recpies.
 
 * A rotisserie
-* A bbq
+* A [gas] bbq
 * A rotisserie chicken cage
 * A meat smoker
 * A bluetooth smoker thermal probe
@@ -19,6 +24,7 @@ Things that you might not currently have, that I find useful when making these r
 * An instant pot
 * A vacuum sealer
 * A sous vide
+* An egg poacher
 * Large heavy sauce pan
 * A wok
 * A wok ladle
@@ -36,16 +42,18 @@ Things that you might not currently have, that I find useful when making these r
 * [Saganaki Prawns with Orzo](prawn-saganaki.md)
 * [Yorkshire Pudding - improvements required](yorkshire-pudding.md)
 * [Asian Salmon and bulgar wheat with crispy kale](asian-salmon-and-kale.md)
+* [Eggs and Sobrasada](eggs-on-toast.md)
 * [Jerk Chicken (Sandwich)](jerk-chicken-sandwich.md)
+* [Rotisserie pork belly/shoulder](rotisserie-pork-shoulder-belly.md)
+* [Magic Pasta](magic-pasta.md)
+* [Crispy chilli shredded beef](crispy-shredded-beef.md)
 
 ### Incomplete (photos, no instructions)
 
-* [Rotisserie pork belly/shoulder](rotisserie-pork-shoulder-belly.md)
 * [Rotisserie lamb kebabs](rotisserie-lamb-kebabs.md)
 * [Peanut ramen](instant-pot-peanut-ramen.md)
 * [Soft shell crab](soft-shell-crab-bao.md)
-* [Magic Pasta](magic-pasta.md)
-* [Crispy chilli shredded beef with iceberg shells and sticky rice](crispy-shredded-beef.md)
+
 
 ### Not started
 
