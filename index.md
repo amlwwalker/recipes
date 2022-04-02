@@ -40,6 +40,7 @@ Things that you might not currently have, that I find useful when making these r
 * [Rotisserie Deboned Chicken and gravy](rotisserie-chicken-gravy.md)
 * [Singapore noodles](singapore-noodles.md)
 * [Saganaki Prawns with Orzo](prawn-saganaki.md)
+* [Chicken Tikka Salad](chicken-tikka-salad.md)
 * [Yorkshire Pudding - improvements required](yorkshire-pudding.md)
 * [Asian Salmon and bulgar wheat with crispy kale](asian-salmon-and-kale.md)
 * [Eggs and Sobrasada](eggs-on-toast.md)
@@ -58,7 +59,7 @@ Things that you might not currently have, that I find useful when making these r
 ### Not started
 
 * [Instant pot Tom Yum Soup]()
-* [Ultimate Chicken wingles in cage]()
+* [Ultimate Chicken wings in cage]()
 * [Drunken noodles]()
 * [Ultimate roast potatoes]()
 * [Butterfly leg of lamb with incredible honey glaze]()
