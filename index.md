@@ -48,6 +48,7 @@ Things that you might not currently have, that I find useful when making these r
 * [Rotisserie pork belly/shoulder](rotisserie-pork-shoulder-belly.md)
 * [Magic Pasta](magic-pasta.md)
 * [Crispy chilli shredded beef](crispy-shredded-beef.md)
+* [Pizza](pizza.md)
 
 ### Incomplete (photos, no instructions)
 
