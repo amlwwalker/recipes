@@ -49,6 +49,7 @@ Things that you might not currently have, that I find useful when making these r
 * [Magic Pasta](magic-pasta.md)
 * [Crispy chilli shredded beef](crispy-shredded-beef.md)
 * [Pizza](pizza.md)
+* [Pasta reference](pastas.md)
 
 ### Incomplete (photos, no instructions)
 
